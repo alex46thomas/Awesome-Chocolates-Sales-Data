@@ -101,7 +101,7 @@ This dashboard revealed several data-driven insights across sales performance, p
 ### 🔹 3. Low Box Shipments (LBS) Analysis
 - **Top LBS% Salespersons**: Husein Auger (20%), Curtice Advani (19%), Marney O’Breen (16%) — only Marney met the profit target.
 - **Top-sampled products** like *50% Dark Bites*, *Eclairs*, and *Mint Chip Choco* had low profitability due to **high product costs**, not due to LBS.
-- **No clear correlation** between high LBS% and low profit % — in fact, several high-LBS products maintain strong margins.
+- **No clear correlation** between high LBS% and low profit % , in fact, several high-LBS products maintain strong margins.
 
 ### 🔹 4. Sales Team Performance
 - **Top performers** by profit %: Marney O’Breen, Kelci Walkden, Van Tuxwell.
